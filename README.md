@@ -1,2 +1,2 @@
 # 351-redirect
-Usage: redir <inp> <cmd> <out>
+Usage: redir &lt;inp&gt; &lt;cmd&gt; &lt;out&gt;
