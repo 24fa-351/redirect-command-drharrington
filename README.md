@@ -1,2 +1,2 @@
 # 351-redirect
-empty for project
+Usage: redir <inp> <cmd> <out>
